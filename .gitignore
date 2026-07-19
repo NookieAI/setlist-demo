@@ -1,0 +1,7 @@
+# Source/build files stay local — only index.html (the deployed demo) is tracked.
+build.py
+setlist-template.html
+report-template.html
+report.html
+Setlist-Report-for-Ben.pdf
+fonts/
